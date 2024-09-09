@@ -1,0 +1,5 @@
+{
+    "outputDirectory": "smart-vote-app",
+    "buildCommand": "cd smart-vote-app && npm run build",
+    "installCommand": "cd smart-vote-app && npm install"
+  }
