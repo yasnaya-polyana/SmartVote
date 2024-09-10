@@ -1,6 +1,6 @@
 {
-    "buildCommand": "npm run build",
+    "buildCommand": "npm run build --prefix smart-vote-app",
     "outputDirectory": "smart-vote-app/.next",
-    "installCommand": "npm install --prefix smart-vote-app",
-    "framework": "nextjs"
+    "installCommand": "npm install --prefix smart-vote-app"
   }
+  
