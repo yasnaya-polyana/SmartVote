@@ -2,7 +2,7 @@
 
 Secure, transparent, and decentralized voting powered by blockchain technology.
 
-![Project Screenshot](./smart-vote-app/public/readmeimg.png)
+![Project Screenshot](./readmeimg.png)
 
 ## Overview
 
