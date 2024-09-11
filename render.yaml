@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: smartvote
-    env: node
-    buildCommand: cd smart-vote-app && npm install && npm run build
-    startCommand: cd smart-vote-app && npm start
-    envVars:
-      - key: NODE_ENV
-        value: production
