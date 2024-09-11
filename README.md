@@ -2,6 +2,8 @@
 
 Secure, transparent, and decentralized voting powered by blockchain technology.
 
+![Project Screenshot](./smart-vote-app/public/readmeimg.png)
+
 ## Overview
 
 SmartVote is an innovative voting system built on Ethereum blockchain technology, leveraging the power of smart contracts to ensure secure, transparent, and decentralized voting processes. This application provides a user-friendly interface for participating in blockchain-based voting events.
